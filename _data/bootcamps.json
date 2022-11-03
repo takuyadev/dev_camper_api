@@ -62,7 +62,6 @@
     "housing": false,
     "jobAssistance": true,
     "jobGuarantee": true,
-    "acceptGi": true,
-    "averageCost": 15000
+    "acceptGi": true
   }
 ]
