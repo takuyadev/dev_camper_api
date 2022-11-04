@@ -32,6 +32,12 @@ const CourseSchema = new mongoose.Schema({
       // Reference to Schema, not database
       ref: 'Bootcamp',
       required: true
+   },
+   user: {
+      type: mongoose.Schema.ObjectId,
+      // Reference to Schema, not database
+      ref: 'User',
+      required: true
    }
 })
 
