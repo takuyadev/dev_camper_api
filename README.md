@@ -1,9 +1,7 @@
 
 # DevCamper API - Node.js Masterclass with Express & MongoDB w/ Brad Traversy
 
-This project is deployed at the [link here.](https://shelfie-takuyatoyokawa.vercel.app/)
-
-# Documentation
+## `Documentation`
 [Link to documentation.](https://documenter.getpostman.com/view/21556195/2s8YYFridV)
 
 ### `Summary`
