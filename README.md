@@ -1,6 +1,10 @@
 
 # Node.js API Masterclass With Express & MongoDB - Brad Traversy
 
+### `Links to live projects`
+- [Live Server & DocGen](https://dev-camper-api.onrender.com/)
+- [Postman Documentation](https://documenter.getpostman.com/view/21556195/2s8YYFridV)
+
 ### `Summary`
 
 API that allows users to login, signup, and upload their own bootcamp and courses with relationships between data.
