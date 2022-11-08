@@ -1,8 +1,5 @@
 
-# DevCamper API - Node.js Masterclass with Express & MongoDB w/ Brad Traversy
-
-## `Documentation`
-[Link to documentation.](https://documenter.getpostman.com/view/21556195/2s8YYFridV)
+# Node.js Crash Course - Brad Traversy
 
 ### `Summary`
 
@@ -26,4 +23,4 @@ Runs the app in the development mode.\
 2. Open [http://localhost:3000](http://localhost:5000) to view it in your browser.
 
 ### `Resource`
-[Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/)
+[Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
