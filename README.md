@@ -22,6 +22,7 @@ Also covers for security problems such as NoSQL Injection, as well as XSS attack
 
 #### `npm run dev`
 *You will not be able to run this build due to having no config.env file to access the database.*
+
 Runs the app in the development mode.\
 1. Clone repository
 2. Run npm install for dependencies
